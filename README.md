@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kavitheshAS
 - 👀 I'm interested in coding challenging problems
-- 🌱 I’m currently learning C,CPP,JAVA
+- 🌱 I’m currently learning C,CPP,JAVA,BASH
 - 💞️ I’m looking to collaborate on small to moderate level projects
 - 📫 reach me by mail kavithesh2004@gmail.com
 
